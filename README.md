@@ -122,4 +122,6 @@ predict(w1,w2,test)
 
 
 ** RESULT**
+
+
 Thus the implementation of MLP for non-linear separable problem is executed successfully.
