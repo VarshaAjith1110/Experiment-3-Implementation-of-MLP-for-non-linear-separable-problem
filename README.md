@@ -115,6 +115,9 @@ predict(w1,w2,test)
 ```
 
  **OUTPUT**
+ 
+ 
+ 
  ![image](https://user-images.githubusercontent.com/94222288/236743149-6d356cda-f29f-4198-8b0c-6c3055a35e5d.png)
 
 
